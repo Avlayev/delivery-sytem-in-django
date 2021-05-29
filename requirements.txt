@@ -12,3 +12,5 @@ six
 sqlparse
 toml
 wrapt
+whitenoise
+gunicorn
